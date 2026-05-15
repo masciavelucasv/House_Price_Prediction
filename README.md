@@ -62,7 +62,7 @@ python 4_evaluate.py
 ## Charts
 
 ### Price distribution
-![Price distribution](outputs/01_price_distribution.png)
+Price distribution.png
 
 ### Correlation heatmap
 ![Heatmap](outputs/02_correlation_heatmap.png)
