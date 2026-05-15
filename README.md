@@ -45,7 +45,7 @@ house-price-prediction/
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-prediction.git
+git clone https://github.com/masciavelucasv/house-price-prediction.git
 cd house-price-prediction
 pip install -r requirements.txt
 
@@ -62,7 +62,7 @@ python 4_evaluate.py
 ## Charts
 
 ### Price distribution
-Price distribution.png
+![Price distribution](outputs/Price distribution.png)
 
 ### Correlation heatmap
 ![Heatmap](outputs/02_correlation_heatmap.png)
