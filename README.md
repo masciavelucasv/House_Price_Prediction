@@ -61,20 +61,11 @@ python 4_evaluate.py
 
 ## Charts
 
-### Price distribution
-![Price distribution](outputs/Price distribution.png)
-
-### Correlation heatmap
-![Heatmap](outputs/02_correlation_heatmap.png)
-
-### Income vs price
-![Income vs price](outputs/03_income_vs_price.png)
-
-### Model comparison
-![Model comparison](outputs/04_model_comparison.png)
-
-### Predictions vs actual
-![Predictions](outputs/05_predictions_vs_actual.png)
+![Price distribution](Price%20distribution.png)
+![Heatmap](heatmap.png)
+![Income vs price](income%20vs%20price.png)
+![Model comparison](model%20comparison.png)
+![Predictions](prediction%20vs%20actual.png)
 
 ---
 
